@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **abhay171010@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11vUSe3if5WKybRYgz2Axvxm9iF0gryQz/view?usp=drive_link](https://drive.google.com/file/d/11vUSe3if5WKybRYgz2Axvxm9iF0gryQz/view?usp=drive_link)
+- 📄 Know about my experiences https://drive.google.com/drive/folders/1lcP6tb71xFVsXw9MFCvn7VzGd06ayrT0?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
