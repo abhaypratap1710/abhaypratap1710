@@ -18,8 +18,9 @@ Email Me 👉 ✉ **abhay171010@gmail.com** for collaboration, projects, or oppo
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhaypratapsingh45/)
-[![Resume](https://img.shields.io/badge/Resume-000000?logo=readthedocs&logoColor=white)](YOUR_RESUME_LINK_HERE)
+[![Resume](https://img.shields.io/badge/Resume-000000?logo=readthedocs&logoColor=white)](https://drive.google.com/drive/folders/1lcP6tb71xFVsXw9MFCvn7VzGd06ayrT0?usp=drive_link)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhay171010@gmail.com)
+
 
 
 # 💻 Tech Stack:
